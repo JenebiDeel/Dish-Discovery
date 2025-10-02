@@ -37,10 +37,12 @@ index.php
 
 ### edit_profile.php
 - Allows users to edit their profile information and add new recipes.
-- logout.php
+  
+### logout.php
 - Logs out the user and redirects to the login page.
 
 ## CSS Files
 - css/style.css: Styles for the main pages.
 - css/login.css: Styles for the login page.
 - css/register.css: Styles for the registration page.
+
