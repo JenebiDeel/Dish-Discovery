@@ -1,0 +1,31 @@
+.recipe-container {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #FCC8D1;
+    height: 100%;
+    display: flex;
+
+}
+
+h1 {
+    color: #D14D72;
+    margin-top: 0;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.recipe-container img {
+    width: 400px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.recipe-description {
+    color: #D14D72;
+    margin-left: 20px;
+
+}
+
+.recipe-description p {
+    margin: 0;
+}
